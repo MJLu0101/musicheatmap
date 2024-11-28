@@ -41,10 +41,10 @@
     },
     {
         "date": "2024-01-06",
-        "listenedSongsCount": 32,
+        "listenedSongsCount": 0,
         "topTrack": {
-        "name": "Numb",
-        "albumArt": "http://p2.music.126.net/dQJQCYgIJUzqcD_b_2PpIA==/109951166701647085.jpg?param=130y130"
+        "name": "NULL",
+        "albumArt": "#"
         }
     },
     {
@@ -57,7 +57,7 @@
     },
     {
         "date": "2024-01-08",
-        "listenedSongsCount": 44,
+        "listenedSongsCount": 34,
         "topTrack": {
         "name": "Nobody (from Kaiju No. 8)",
         "albumArt": "http://p1.music.126.net/m0gYvaiWlwYJw-Zmg6CXIA==/109951169489646546.jpg?param=177y177"
@@ -73,7 +73,7 @@
     },
     {
         "date": "2024-01-10",
-        "listenedSongsCount": 27,
+        "listenedSongsCount": 24,
         "topTrack": {
         "name": "My Dearest",
         "albumArt": "http://p2.music.126.net/u78AmmcaZCO3sKbafA_Gpw==/109951166200230737.jpg?param=130y130"
@@ -113,7 +113,7 @@
     },
     {
         "date": "2024-01-15",
-        "listenedSongsCount": 36,
+        "listenedSongsCount": 26,
         "topTrack": {
             "name": "story",
             "albumArt": "http://p2.music.126.net/vfcnLOpwg0vNOM5xFiATvg==/109951167743873184.jpg?param=130y130"
@@ -156,7 +156,7 @@
         "listenedSongsCount": 25,
         "topTrack": {
         "name": "Midnight City",
-        "albumArt": "http://p1.music.126.net/Qpd1RVip0gpUGHUpJ1eM3g==/1367792466251998.jpg?param=130y130"
+        "albumArt": "http://p1.music.126.net/FDDx1Ztt_WWu9VQokPdykQ==/109951163908492087.jpg?param=130y130"
         }
     },
     {
@@ -185,7 +185,7 @@
     },
     {
         "date": "2024-01-24",
-        "listenedSongsCount": 36,
+        "listenedSongsCount": 16,
         "topTrack": {
         "name": "Zenzenzense",
         "albumArt": "http://p2.music.126.net/1Yr9BjOSnpv2RZco5uGkvg==/18678503535004895.jpg?param=130y130"
@@ -217,10 +217,10 @@
     },
     {
         "date": "2024-01-28",
-        "listenedSongsCount": 13,
+        "listenedSongsCount": 0,
         "topTrack": {
-        "name": "Paradise",
-        "albumArt": "http://p2.music.126.net/lKcQUPMOleno8c67GzpKIA==/109951166764173392.jpg?param=130y130"
+        "name": "NULL",
+        "albumArt": "#"
         }
     },
     {
