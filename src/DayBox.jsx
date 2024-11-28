@@ -5,9 +5,9 @@ const DayBox = ({ day }) => {
   //green
   const getColor = (count) => {
     if (count === 0) return "#e0e0e0";
-    if (count < 30) return "#b3e6b3"; 
-    if (count < 50) return "#80d680"; 
-    if (count < 80) return "#4db84d"; 
+    if (count < 15) return "#b3e6b3"; 
+    if (count < 30) return "#80d680"; 
+    if (count < 45) return "#4db84d"; 
     return "#269926"; 
 };
 
@@ -22,7 +22,7 @@ const DayBox = ({ day }) => {
       onMouseLeave={() => setHovered(false)}
     >
       {dayNumber} {/*  */}
-      {hovered && day.topTrack && (
+      {hovered && day.topTrack &&  day.listenedSongsCount > 0 &&(
         <div className="tooltip">
           <p>Date: {day.date}</p>
           <p>Listened: {day.listenedSongsCount} songs</p>
