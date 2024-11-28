@@ -45,6 +45,7 @@ body {
   
   .tooltip {
     position: absolute;
+    min-width: 70px;
     top: -110px;
     left: 50%;
     transform: translateX(-50%);
