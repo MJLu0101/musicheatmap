@@ -5,8 +5,8 @@ const DayBox = ({ day }) => {
 
   const getColor = (count) => {
     if (count === 0) return "#e0e0e0";
-    if (count < 10) return "#cce5ff";
-    if (count < 20) return "#99ccff";
+    if (count < 30) return "#cce5ff";
+    if (count < 50) return "#99ccff";
     return "#3399ff";
   };
 
