@@ -2,13 +2,14 @@ import React, { useState } from "react";
 
 const DayBox = ({ day }) => {
   const [hovered, setHovered] = useState(false);
-
+  //green
   const getColor = (count) => {
     if (count === 0) return "#e0e0e0";
-    if (count < 30) return "#cce5ff";
-    if (count < 50) return "#99ccff";
-    return "#3399ff";
-  };
+    if (count < 30) return "#b3e6b3"; 
+    if (count < 50) return "#80d680"; 
+    if (count < 80) return "#4db84d"; 
+    return "#269926"; 
+};
 
   // get day from day.date 
   const dayNumber = day.date ? parseInt(day.date.split("-")[2]) : "";
