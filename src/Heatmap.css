@@ -73,4 +73,43 @@ body {
     height: 50px;
     background-color: transparent;
   }
+  @media screen and (max-width: 768px) { 
+    body {
+      height: auto; 
+    }
+  
+    .app {
+      height: auto;
+      padding: 10px;
+    }
+    .app h1 {
+      font-size: 20px;   
+    }
+    .heatmap {
+      grid-template-columns: repeat(5, 1fr); 
+      gap: 3px; 
+      padding: 10px; 
+    }
+  
+    .day-box {
+      min-width: 40px;
+      min-height: 40px;
+      font-size: 9px; 
+    }
+  
+    .tooltip {
+      top: -80px; 
+      min-width: 60px; 
+      font-size: 8px;
+    }
+  
+    .tooltip p {
+      font-size: 7px;
+    }
+  
+    .empty-box {
+      width: 40px; 
+      height: 40px;
+    }
+  }
   
